@@ -10,8 +10,7 @@
 using std::string;
 
 class ContversionString {
-private:
-	int gay;
+
 public:
 
 	WORD VirtualKeyCode (string letter,string datatype="none"){
